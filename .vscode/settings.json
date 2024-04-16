@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.fixAll.format": "always",
+    "source.organizeImports": "always"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "tailwindCSS.experimental.classRegex": [
+    ["'([^']*)'", "Classes \\=([^;]*);"],
+    ["\"([^\"]*)\"", "Classes \\=([^;]*);"],
+    ["\\`([^\\`]*)\\`", "Classes \\=([^;]*);"]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "kumar-harsh.graphql-for-vscode",
+    "Tobermory.es6-string-html",
+    "zjcompt.es6-string-javascript",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
